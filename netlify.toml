@@ -1,5 +1,5 @@
 [build]
-  command = "cd gatsby-starter-ghost && npm install && npm run build && cd .."
+  command = "cd gatsby-starter-ghost && yarn && gatsby develop && cd .."
   publish = "gatsby-starter-ghost/public/"
 
 [template]
