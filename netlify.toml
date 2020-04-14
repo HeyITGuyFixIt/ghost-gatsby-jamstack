@@ -1,5 +1,5 @@
 [build]
-  command = "gatsby build"
+  command = "npm run build"
   publish = "gatsby-starter-ghost/public/"
 
 [template]
